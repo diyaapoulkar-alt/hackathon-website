@@ -1,36 +1,26 @@
-# Data Science Club Recruitment 2026–27 | Software Dev Team Task Submission
+# Data Science Club Recruitment 2026–27 | Software Dev Team Task Round
 
-**Candidate**: Diyaa Poulkar  
+**Candidate Name**: Diyaa Poulkar  
 **GitHub Profile**: [diyaapoulkar-alt](https://github.com/diyaapoulkar-alt)  
 **Repository**: [diyaapoulkar-alt/hackathon-website](https://github.com/diyaapoulkar-alt/hackathon-website)
 
 ---
 
-## 📑 Submission Table of Contents
-1. [Task 1: Product Thinking Challenge](#-task-1-product-thinking-challenge)
-2. [Task 2: Frontend Development Challenge (NEXUS 2026)](#-task-2-frontend-development-challenge)
-3. [✨ Key Features & Creative Bonus Implementation](#-key-features--creative-bonus-implementation)
-4. [💻 Tech Stack & Architecture](#-tech-stack--architecture)
-5. [🚀 Local Setup & Run Guide](#-local-setup--run-guide)
-6. [🌐 Live Deployment Instructions (Vercel / Netlify)](#-live-deployment-instructions)
+## 📌 Task 1: Product Thinking Challenge
 
----
+### Platform: **Spotify** (Desktop & Mobile)
+**Proposed Feature**: *Contextual Audio-Spatial Focus Engine & Collaborative Dynamic Jam Queue*
 
-## 💡 Task 1: Product Thinking Challenge
+### Executive Summary
+Spotify is an industry benchmark for personalized music recommendations. However, two distinct product frictions exist:
+1. **Group Session Friction ("Aux Cable Tug-of-War")**: In collaborative Spotify Jam sessions, queues favor the primary host, leading to song skipping and participant frustration.
+2. **Focus-State Friction**: Manual playlist swapping during deep work, coding, or study sessions breaks user flow.
 
-### Chosen Platform: **Spotify** (Desktop & Mobile)
-**Feature Proposed**: *Contextual Audio-Spatial Focus Engine & Collaborative Dynamic Jam Queue*
-
-### 1. Executive Summary
-Spotify excels at personalized algorithmic recommendations (Discover Weekly, Daylist). However, users experience two significant product frictions:
-- **Group Session Friction ("Aux Cable Tug-of-War")**: In collaborative Spotify Jam sessions, queues favor the primary host, leading to song skipping and participant frustration.
-- **Focus-State Friction**: Manual playlist swapping during deep work, coding, or study sessions breaks user flow.
-
-### 2. Proposed Product Solution
+### Proposed Product Solution
 - **Real-Time Fair-Queue Algorithm**: Introduces a weighted pulse-voting queue for Spotify Jam. A background algorithm dynamically boosts queue priority for participants who haven't had a track played in 30+ minutes.
 - **Biometric & Focus-State Adaptive Queueing**: Integrates with device focus timers and IDE plugins to transition audio energy from lyrics to ambient binaural synthwave during intense coding sprints.
 
-### 3. Quantitative Success Metrics (KPIs)
+### Quantitative Success Metrics (KPIs)
 - **Engagement**: +14% increase in average Spotify Jam session duration.
 - **UX Quality**: -32% reduction in manual track skips within 5 minutes of play.
 - **Retention**: +8% increase in 30-day DAU retention for collaborative listeners.
@@ -45,67 +35,34 @@ Spotify excels at personalized algorithmic recommendations (Discover Weekly, Day
 
 An elite, futuristic glassmorphic Hackathon Registration Website featuring interactive 3D perspective cyber grid dynamics, glowing UI cards, responsive layouts, multi-theme customization, interactive event schedule, and multi-step registration validation with dynamic ticket pass generation.
 
-### Mandatory Sections Implemented
-- [x] **Home**: Cyberpunk headline, live countdown timer, status ticker ($50,000+ total prizes, 1,200+ hackers), custom visual banner.
-- [x] **About**: Core highlights, GPU compute clusters, VC incubator pathways, and 3 specialized tracks (**Autonomous AI**, **Quantum Computing**, **Decentralized Infra**).
-- [x] **Schedule**: Day 1 / Day 2 / Day 3 interactive tabs, category filter pills, timeline detail cards, and event bookmarking.
-- [x] **Prizes**: 3D-styled trophy podium cards (Grand Champion $20k, 1st Runner Up $12k, 2nd Runner Up $8k) plus special sponsor bounties.
-- [x] **Sponsors & FAQs**: Google Cloud, NVIDIA, IBM Quantum, Vercel, OpenAI, GitHub partner grid + collapsible accordion FAQs.
-- [x] **Registration Form**: Multi-step interactive registration modal with client validation, solo vs team mode, and confetti celebration ticket generator.
+### Implemented Mandatory Sections
+- **Home**: Cyberpunk headline, live countdown timer, status ticker ($50,000+ total prizes, 1,200+ hackers), custom visual banner.
+- **About**: Core highlights, GPU compute clusters, VC incubator pathways, and 3 specialized tracks (**Autonomous AI**, **Quantum Computing**, **Decentralized Infra**).
+- **Schedule**: Day 1 / Day 2 / Day 3 interactive tabs, category filter pills, timeline detail cards, and event bookmarking.
+- **Prizes**: 3D-styled trophy podium cards (Grand Champion $20k, 1st Runner Up $12k, 2nd Runner Up $8k) plus special sponsor bounties.
+- **Sponsors & FAQs**: Google Cloud, NVIDIA, IBM Quantum, Vercel, OpenAI, GitHub partner grid + collapsible accordion FAQs.
+- **Registration Form**: Multi-step interactive registration modal with client validation, solo vs team mode, and confetti celebration ticket generator.
+
+### Creative Features & Enhancements
+- ⏳ **Live Dynamic Countdown Timer**: Flip countdown timer calculating days, hours, minutes, and seconds to launch date.
+- 🌐 **3D Perspective Cyber Matrix Grid Canvas**: Perspective grid with moving laser lines and 40+ orbiting geometric nodes.
+- 🎴 **3D Tilt Cards (`TiltCard`)**: Vanishing-point 3D rotation and dynamic holographic light reflectance on hover.
+- 🤖 **Floating "NEXUS AI" Assistant Widget**: Interactive 24/7 AI chatbot answering hackathon questions on tracks, prizes, and rules.
+- 🔊 **Cyber Audio Synthesizer (SFX)**: Web Audio API synthesized sound effects on button hover and click.
+- 🌓 **Multi-Preset Theme Switcher**: Instant switching between **Cyber Neon**, **Obsidian Dark**, and **Light Void** themes.
+- 🎟️ **Digital Ticket Generator & Confetti Burst**: Submission fires a celebration confetti burst and renders a customized digital hackathon pass.
+- 🔖 **Interactive Schedule Bookmarking**: Users can bookmark sessions across Day 1, 2, and 3 to build their personalized itinerary.
 
 ---
 
-## ✨ Key Features & Creative Bonus Implementation
+## 🛠️ Tech Stack & Local Setup
 
-1. ⏳ **Live Dynamic Countdown Timer**: Flip countdown timer calculating days, hours, minutes, and seconds to launch date.
-2. 🌐 **3D Perspective Cyber Matrix Grid Canvas**: Perspective grid with moving laser lines and 40+ orbiting geometric nodes.
-3. 🎴 **3D Tilt Cards (`TiltCard`)**: Vanishing-point 3D rotation and dynamic holographic light reflectance on hover.
-4. 🤖 **Floating "NEXUS AI" Assistant Widget**: Interactive 24/7 AI chatbot answering hackathon questions on tracks, prizes, and rules.
-5. 🔊 **Cyber Audio Synthesizer (SFX)**: Web Audio API synthesized sound effects on button hover and click.
-6. 🌓 **Multi-Preset Theme Switcher**: Instant switching between **Cyber Neon**, **Obsidian Dark**, and **Light Void** themes.
-7. 🎟️ **Digital Ticket Generator & Confetti Burst**: Submission fires a celebration confetti burst and renders a customized digital hackathon pass.
-8. 🔖 **Interactive Schedule Bookmarking**: Users can bookmark sessions across Day 1, 2, and 3 to build their personalized itinerary.
+**Stack**: React 19, Vite 6, Tailwind CSS v4, Lucide React, HTML5 Canvas API, Web Audio API
 
----
-
-## 💻 Tech Stack & Architecture
-
-- **Core Framework**: React 19 + Vite 6
-- **Styling**: Tailwind CSS v4 + Vanilla CSS Design Tokens
-- **Icons & Visuals**: Lucide React + Generated High-Res Cyber visual assets
-- **Effects & Audio**: Canvas-Confetti + HTML5 Canvas API + Web Audio API Synthesizer
-
----
-
-## 🚀 Local Setup & Run Guide
-
+To run this project locally:
 ```bash
-# 1. Clone the repository
 git clone https://github.com/diyaapoulkar-alt/hackathon-website.git
-
-# 2. Navigate into the project directory
 cd hackathon-website
-
-# 3. Install dependencies
 npm install
-
-# 4. Start local development server
 npm run dev
 ```
-
-Open your browser and navigate to `http://localhost:5173`.
-
----
-
-## 🌐 Live Deployment Instructions
-
-### Deploying on Vercel
-1. Go to [vercel.com/new](https://vercel.com/new) and log in with GitHub.
-2. Import repository `diyaapoulkar-alt/hackathon-website`.
-3. Click **Deploy**. Vercel will output your live URL!
-
----
-
-## 👨‍💻 Submission Summary
-- **Candidate Name**: Diyaa Poulkar
-- **GitHub Repository**: [https://github.com/diyaapoulkar-alt/hackathon-website](https://github.com/diyaapoulkar-alt/hackathon-website)
