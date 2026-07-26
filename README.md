@@ -2,7 +2,8 @@
 
 **Candidate Name**: Diyaa Poulkar  
 **GitHub Profile**: [diyaapoulkar-alt](https://github.com/diyaapoulkar-alt)  
-**Repository**: [diyaapoulkar-alt/hackathon-website](https://github.com/diyaapoulkar-alt/hackathon-website)
+**GitHub Repository**: [diyaapoulkar-alt/hackathon-website](https://github.com/diyaapoulkar-alt/hackathon-website)  
+**Live Deployment Link**: [https://hackathon-website-jade.vercel.app/](https://hackathon-website-jade.vercel.app/)
 
 ---
 
@@ -34,6 +35,8 @@ Spotify is an industry benchmark for personalized music recommendations. However
 ### Project Title: **NEXUS 2026 — AI & Quantum Frontiers Hackathon**
 
 An elite, futuristic glassmorphic Hackathon Registration Website featuring interactive 3D perspective cyber grid dynamics, glowing UI cards, responsive layouts, multi-theme customization, interactive event schedule, and multi-step registration validation with dynamic ticket pass generation.
+
+**Live Website**: [https://hackathon-website-jade.vercel.app/](https://hackathon-website-jade.vercel.app/)
 
 ### Implemented Mandatory Sections
 - **Home**: Cyberpunk headline, live countdown timer, status ticker ($50,000+ total prizes, 1,200+ hackers), custom visual banner.
